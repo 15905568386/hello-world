@@ -1,3 +1,3 @@
 # hello-world
 anything
-It's the first time that I use github
+It is my first time to use github
